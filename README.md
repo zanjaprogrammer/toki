@@ -1,1 +1,2 @@
 # toki
+belajar bahasa c
